@@ -1,0 +1,15 @@
+{
+  "name": "making-predictions-from-2d-data",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite serve"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "@tensorflow/tfjs-vis": "^1.5.1"
+  }
+}
